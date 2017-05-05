@@ -1,0 +1,19 @@
+{
+  "name": "remoted-js-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-ienien/remoted-js-client.git"
+  },
+  "author": "Vivien Anglesio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-ienien/remoted-js-client/issues"
+  },
+  "homepage": "https://github.com/super-ienien/remoted-js-client#readme"
+}
